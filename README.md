@@ -29,6 +29,8 @@ inequality becomes visible before you read a single number.
 An HTML file anyone can open in any browser.
 No installation needed to view the results.
 
+![Education Atlas Map](output.png)
+
 ## Tech Stack
 Python · Pandas · Folium · CSV Data Handling
 
